@@ -35,26 +35,26 @@ URL: [Vast.ai](https://cloud.vast.ai/?ref_id=87730)
 
   2XGPU用vast2.sh:
   ```
-    sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast2.sh && sudo chmod +x vast2.sh && &&  sudo ./vast2.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
+    sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast2.sh && sudo chmod +x vast2.sh &&   sudo ./vast2.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
   ```      
 
   4XGPU用vast4.sh:
   ```
-  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast4.sh && sudo chmod +x vast4.sh && &&  sudo ./vast4.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
+  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast4.sh && sudo chmod +x vast4.sh &&   sudo ./vast4.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
   ```      
 
   8XGPU用vast8.sh:
  
   ```
-  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast8.sh && sudo chmod +x vast8.sh && &&  sudo ./vast8.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
+  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast8.sh && sudo chmod +x vast8.sh &&   sudo ./vast8.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
   ```
 
   12XGPU用vast12.sh:
   ```
-  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast12.sh && sudo chmod +x vast12.sh && &&  sudo ./vast12.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
+  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast12.sh && sudo chmod +x vast12.sh &&   sudo ./vast12.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
   ```
 
   14XGPU用vast14.sh::
   ```
-  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast14.sh && sudo chmod +x vast14.sh && &&  sudo ./vast14.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
+  sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/szin5535/xgpu/main/vast14.sh && sudo chmod +x vast14.sh &&   sudo ./vast14.sh 0xC89091210113E922c2Fd7f0DFFebbc9F0dd08ECE
   ```      
